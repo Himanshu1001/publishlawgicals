@@ -2701,7 +2701,7 @@ ul {
   .banner_part {
     height: 650px;
     background-image: none;
-    background-color: #f0eed4;
+    background-color: #000;
   }
 }
 
@@ -2710,7 +2710,7 @@ ul {
   .banner_part {
     height: 650px;
     background-image: none;
-    background-color: #f0eed4;
+    background-color: #000;
   }
 }
 
@@ -2719,7 +2719,7 @@ ul {
   .banner_part {
     height: 700px;
     background-image: none;
-    background-color: #f0eed4;
+    background-color: #000;
   }
 }
 
@@ -3890,6 +3890,7 @@ ul {
   border-radius: 0px;
   height: 300px;
   width: 500px;
+  border-radius: 20px 20px;
 }
 
 /* line 43, E:/167 Bizcon Business/Bizcon_html/sass/_blog_part.scss */
