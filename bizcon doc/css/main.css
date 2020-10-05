@@ -1,5 +1,5 @@
 body{
-	background-color:#FFF;
+	background-color:#f7f7f7;
     font-family: "Lato", sans-serif;
     font-weight: 300;
 	font-size:16px;
@@ -57,7 +57,7 @@ section p {
   line-height: 28px;
 }
 .logo a h1{
-    color: #fff !important;
+    color: #f7f7f7 !important;
 }
 .clearfix:before,
 .clearfix:after {
@@ -124,7 +124,7 @@ section p {
 }
 
 .left-nav ul li a {
-    color: #fff;
+    color: #f7f7f7;
     display: block;
     padding: 10px 35px;
     -webkit-transition: all 0.3s ease-in 0s;
@@ -135,7 +135,7 @@ section p {
 }
 
 .left-nav ul li a:hover, .left-nav ul li .current {
-    background-color: #fff;
+    background-color: #f7f7f7;
     color: #000;
 }
 
