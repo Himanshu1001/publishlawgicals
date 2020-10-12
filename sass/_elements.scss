@@ -12,7 +12,7 @@ $title-color: #415094;
 $text-color: #828bb2;
 $white: #EDFFEC;
 $offwhite: #f9f9ff;
-$black: #5A5766;
+$black: #000;
 //    Mixins
 @mixin transition($args: all 0.3s ease 0s) {
     -webkit-transition: $args;
